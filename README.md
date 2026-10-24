@@ -242,6 +242,6 @@ This project is licensed under the [MIT License](LICENSE) - see the LICENSE file
 
 **Parash Awasthi**
 - GitHub: [@awasthi69](https://github.com/awasthi69)
-- Portfolio: [Parash Portfolio](https://github.com/awasthi69/Parash_portfolio)
+- Portfolio: www.parashmaniawasthi.com.np
 
 ⭐️ If you find this project helpful, please consider starring the repository!
